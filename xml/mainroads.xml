@@ -1,0 +1,531 @@
+<?xml version="1.0"?>
+<root>
+	<streets>
+		<id>31</id>
+		<name>A.A. De Lannoy Willems</name>
+		<x>-0.0544718398078151</x>
+		<y>-0.268200504406734</y>
+	</streets>
+	<streets>
+		<id>74</id>
+		<name>A.M. Chumaceiro BLVD</name>
+		<x>-0.082540618936873</x>
+		<y>-0.291008753930952</y>
+	</streets>
+	<streets>
+		<id>83</id>
+		<name>Amandelweg</name>
+		<x>-0.143703023914651</x>
+		<y>-0.295116285502318</y>
+	</streets>
+	<streets>
+		<id>84</id>
+		<name>Anasaweg</name>
+		<x>-0.151403023914651</x>
+		<y>-0.288106939707925</y>
+	</streets>
+	<streets>
+		<id>45</id>
+		<name>Andres Belloweg</name>
+		<x>-0.127968043258838</x>
+		<y>-0.154100930124187</y>
+	</streets>
+	<streets>
+		<id>72</id>
+		<name>Berg Altena</name>
+		<x>-0.103994302389365</x>
+		<y>-0.288257368801058</y>
+	</streets>
+	<streets>
+		<id>39</id>
+		<name>Bermudaweg</name>
+		<x>-0.0662978682118084</x>
+		<y>-0.174811796258629</y>
+	</streets>
+	<streets>
+		<id>49</id>
+		<name>Biesheuvel</name>
+		<x>-0.113706509603283</x>
+		<y>-0.189754594055044</y>
+	</streets>
+	<streets>
+		<id>15</id>
+		<name>Bocaweg</name>
+		<x>0.0312147194900783</x>
+		<y>-0.191386795631963</y>
+	</streets>
+	<streets>
+		<id>43</id>
+		<name>Bonamweg 1</name>
+		<x>-0.132871099645749</x>
+		<y>-0.140736539218501</y>
+	</streets>
+	<streets>
+		<id>44</id>
+		<name>Bonamweg 2</name>
+		<x>-0.144571099645749</x>
+		<y>-0.139078414406925</y>
+	</streets>
+	<streets>
+		<id>82</id>
+		<name>Bramendiweg</name>
+		<x>-0.130253023914651</x>
+		<y>-0.292402990356102</y>
+	</streets>
+	<streets>
+		<id>46</id>
+		<name>Brievengat, Kaminda</name>
+		<x>-0.138118043258838</x>
+		<y>-0.160083454396031</y>
+	</streets>
+	<streets>
+		<id>37</id>
+		<name>Cabo Verdeweg</name>
+		<x>-0.046873542538283</x>
+		<y>-0.0993419480304363</y>
+	</streets>
+	<streets>
+		<id>68</id>
+		<name>Caracasbaaiweg 1</name>
+		<x>-0.161209991587618</x>
+		<y>-0.277389752325751</y>
+	</streets>
+	<streets>
+		<id>69</id>
+		<name>Caracasbaaiweg 2</name>
+		<x>-0.182359991587618</x>
+		<y>-0.286735546718274</y>
+	</streets>
+	<streets>
+		<id>54</id>
+		<name>Cas Coraweg 1</name>
+		<x>-0.135</x>
+		<y>-0.210676321912231</y>
+	</streets>
+	<streets>
+		<id>55</id>
+		<name>Cas Coraweg 2</name>
+		<x>-0.15665</x>
+		<y>-0.202913283021668</y>
+	</streets>
+	<streets>
+		<id>75</id>
+		<name>Chumaceiro BLVD, A.M.</name>
+		<x>-0.082540618936873</x>
+		<y>-0.291008753930952</y>
+	</streets>
+	<streets>
+		<id>47</id>
+		<name>Corriweg</name>
+		<x>-0.136277007758838</x>
+		<y>-0.176564920279527</y>
+	</streets>
+	<streets>
+		<id>21</id>
+		<name>Cubaweg</name>
+		<x>-0.0343242961430323</x>
+		<y>-0.166142797051828</y>
+	</streets>
+	<streets>
+		<id>30</id>
+		<name>De L. Willems BLVD</name>
+		<x>-0.0544718398078151</x>
+		<y>-0.268200504406734</y>
+	</streets>
+	<streets>
+		<id>53</id>
+		<name>Doormanweg, S. b N.</name>
+		<x>-0.12965</x>
+		<y>-0.192738426223356</y>
+	</streets>
+	<streets>
+		<id>81</id>
+		<name>Dr. M.J. Hugenholzweg</name>
+		<x>-0.125380307914651</x>
+		<y>-0.297971378524795</y>
+	</streets>
+	<streets>
+		<id>78</id>
+		<name>Dr. M.L. King BLVD</name>
+		<x>-0.122630307914651</x>
+		<y>-0.31854720005027</y>
+	</streets>
+	<streets>
+		<id>32</id>
+		<name>E. v Voorthuizenweg</name>
+		<x>-0.0350815287975548</x>
+		<y>-0.266634890894883</y>
+	</streets>
+	<streets>
+		<id>50</id>
+		<name>Emancipatie BLVD</name>
+		<x>-0.112206509603283</x>
+		<y>-0.20822007491124</y>
+	</streets>
+	<streets>
+		<id>27</id>
+		<name>Franklin Rooseveltweg</name>
+		<x>-0.0247034322731349</x>
+		<y>-0.187537407029506</y>
+	</streets>
+	<streets>
+		<id>34</id>
+		<name>Frater Radulphusweg</name>
+		<x>-0.0344315287975549</x>
+		<y>-0.246737393155962</y>
+	</streets>
+	<streets>
+		<id>66</id>
+		<name>Fraternan di Skerpene, Kaya</name>
+		<x>-0.172884923432062</x>
+		<y>-0.252833988248439</y>
+	</streets>
+	<streets>
+		<id>56</id>
+		<name>George Maduroweg</name>
+		<x>-0.142208101666667</x>
+		<y>-0.218342221607388</y>
+	</streets>
+	<streets>
+		<id>41</id>
+		<name>Gosieweg 1</name>
+		<x>-0.0929210996457485</x>
+		<y>-0.162970485555553</y>
+	</streets>
+	<streets>
+		<id>42</id>
+		<name>Gosieweg 2</name>
+		<x>-0.121571099645749</x>
+		<y>-0.140736539218501</y>
+	</streets>
+	<streets>
+		<id>71</id>
+		<name>Grebbeliniweg</name>
+		<x>-0.110744302389365</x>
+		<y>-0.28373521022403</y>
+	</streets>
+	<streets>
+		<id>19</id>
+		<name>Jan Noorduynweg</name>
+		<x>-0.00305193882827779</x>
+		<y>-0.145427197085061</y>
+	</streets>
+	<streets>
+		<id>70</id>
+		<name>Kaminda Salinja</name>
+		<x>-0.113644302389365</x>
+		<y>-0.280268221981643</y>
+	</streets>
+	<streets>
+		<id>79</id>
+		<name>King BLVD, M.L.</name>
+		<x>-0.122630307914651</x>
+		<y>-0.31854720005027</y>
+	</streets>
+	<streets>
+		<id>80</id>
+		<name>Koraalspechtweg</name>
+		<x>-0.135930307914651</x>
+		<y>-0.315457058355968</y>
+	</streets>
+	<streets>
+		<id>18</id>
+		<name>Mahumaweg</name>
+		<x>-0.0186720881539641</x>
+		<y>-0.109623818266072</y>
+	</streets>
+	<streets>
+		<id>67</id>
+		<name>Nieuwe Caracasbaaiweg 1</name>
+		<x>-0.130459991587618</x>
+		<y>-0.268646912410165</y>
+	</streets>
+	<streets>
+		<id>33</id>
+		<name>Nijlweg</name>
+		<x>-0.0388315287975549</x>
+		<y>-0.256836880644657</y>
+	</streets>
+	<streets>
+		<id>35</id>
+		<name>Nijlweg 2</name>
+		<x>-0.0314815287975549</x>
+		<y>-0.223523645793888</y>
+	</streets>
+	<streets>
+		<id>76</id>
+		<name>Oranjestraat</name>
+		<x>-0.102230307914651</x>
+		<y>-0.301965951934502</y>
+	</streets>
+	<streets>
+		<id>29</id>
+		<name>Pater Eeuwensweg</name>
+		<x>-0.0493557257557499</x>
+		<y>-0.2855209152219</y>
+	</streets>
+	<streets>
+		<id>77</id>
+		<name>Penstraat</name>
+		<x>-0.106930307914651</x>
+		<y>-0.308749189800044</y>
+	</streets>
+	<streets>
+		<id>73</id>
+		<name>Pietermaaiweg</name>
+		<x>-0.0787650464924285</x>
+		<y>-0.298400239677778</y>
+	</streets>
+	<streets>
+		<id>28</id>
+		<name>Rector Zwijsenstraat</name>
+		<x>-0.0278057257557499</x>
+		<y>-0.280219944348114</y>
+	</streets>
+	<streets>
+		<id>51</id>
+		<name>Rijkseenheid BLVD</name>
+		<x>-0.110706509603283</x>
+		<y>-0.247336746602527</y>
+	</streets>
+	<streets>
+		<id>86</id>
+		<name>Ring (Schottegatweg)</name>
+		<x>-0.117172724227501</x>
+		<y>-0.197723691849429</y>
+	</streets>
+	<streets>
+		<id>24</id>
+		<name>Rooseveltweg F.D. 1</name>
+		<x>-0.0247361654248194</x>
+		<y>-0.187571199179726</y>
+	</streets>
+	<streets>
+		<id>25</id>
+		<name>Rooseveltweg F.D. 2</name>
+		<x>-0.0306861654248194</x>
+		<y>-0.133577024422445</y>
+	</streets>
+	<streets>
+		<id>26</id>
+		<name>Rooseveltweg F.D. 3</name>
+		<x>-0.0171861654248194</x>
+		<y>-0.0748119758787552</y>
+	</streets>
+	<streets>
+		<id>58</id>
+		<name>Santa Rosaweg 1</name>
+		<x>-0.130058101666667</x>
+		<y>-0.232662390434642</y>
+	</streets>
+	<streets>
+		<id>59</id>
+		<name>Santa Rosaweg 2</name>
+		<x>-0.168658101666667</x>
+		<y>-0.21540281853232</y>
+	</streets>
+	<streets>
+		<id>40</id>
+		<name>Santo Domingoweg</name>
+		<x>-0.0484854255150484</x>
+		<y>-0.1905868730812</y>
+	</streets>
+	<streets>
+		<id>87</id>
+		<name>Schottegatweg Noord</name>
+		<x>-0.0666139691386119</x>
+		<y>-0.184127621471242</y>
+	</streets>
+	<streets>
+		<id>88</id>
+		<name>Schottegatweg West</name>
+		<x>-0.0481401158052786</x>
+		<y>-0.201231005921716</y>
+	</streets>
+	<streets>
+		<id>85</id>
+		<name>Schottegatweg Zuid</name>
+		<x>-0.118472724227501</x>
+		<y>-0.267214195316417</y>
+	</streets>
+	<streets>
+		<id>52</id>
+		<name>Schout bij Nacht D. Weg</name>
+		<x>-0.12965</x>
+		<y>-0.192738426223356</y>
+	</streets>
+	<streets>
+		<id>36</id>
+		<name>Seru Fortunaweg</name>
+		<x>-0.0529271374353051</x>
+		<y>-0.131190434042622</y>
+	</streets>
+	<streets>
+		<id>64</id>
+		<name>Seru Loraweg 1</name>
+		<x>-0.146684923432062</x>
+		<y>-0.255924129942741</y>
+	</streets>
+	<streets>
+		<id>65</id>
+		<name>Seru Loraweg 2</name>
+		<x>-0.168734923432062</x>
+		<y>-0.238890665969271</y>
+	</streets>
+	<streets>
+		<id>48</id>
+		<name>Snipweg</name>
+		<x>-0.121377007758838</x>
+		<y>-0.18693967756108</y>
+	</streets>
+	<streets>
+		<id>13</id>
+		<name>Status v. Eps, Kaminda</name>
+		<x>0.309813144224827</x>
+		<y>0.174668642511895</y>
+	</streets>
+	<streets>
+		<id>38</id>
+		<name>Suffisantweg</name>
+		<x>-0.0748223301748359</x>
+		<y>-0.154308106923614</y>
+	</streets>
+	<streets>
+		<id>57</id>
+		<name>Van Engelenweg</name>
+		<x>-0.147208101666667</x>
+		<y>-0.215553557151554</y>
+	</streets>
+	<streets>
+		<id>16</id>
+		<name>Weg n Bullenbaai</name>
+		<x>0.0482147194900783</x>
+		<y>-0.162913009224196</y>
+	</streets>
+	<streets>
+		<id>14</id>
+		<name>Weg n Bullenbaai 1</name>
+		<x>0.0113147194900783</x>
+		<y>-0.182678057767886</y>
+	</streets>
+	<streets>
+		<id>17</id>
+		<name>Weg n Bullenbaai 3</name>
+		<x>0.0748442651205153</x>
+		<y>-0.150198256983617</y>
+	</streets>
+	<streets>
+		<id>22</id>
+		<name>Weg n Hato</name>
+		<x>0.0124520240069677</x>
+		<y>-0.0892708093489152</y>
+	</streets>
+	<streets>
+		<id>12</id>
+		<name>Weg n St. Cruz</name>
+		<x>0.352163487661787</x>
+		<y>0.184483669465405</y>
+	</streets>
+	<streets>
+		<id>2</id>
+		<name>Weg n Westpunt 1</name>
+		<x>-0.00881845400674018</x>
+		<y>-0.199774279150346</y>
+	</streets>
+	<streets>
+		<id>11</id>
+		<name>Weg n Westpunt 10</name>
+		<x>0.369919432059041</x>
+		<y>0.406104108912778</y>
+	</streets>
+	<streets>
+		<id>3</id>
+		<name>Weg n Westpunt 2</name>
+		<x>0.00133154599325982</x>
+		<y>-0.157115249907053</y>
+	</streets>
+	<streets>
+		<id>4</id>
+		<name>Weg n Westpunt 3</name>
+		<x>0.00808385074475983</x>
+		<y>-0.129996224360249</y>
+	</streets>
+	<streets>
+		<id>6</id>
+		<name>Weg n Westpunt 5</name>
+		<x>0.109222035278093</x>
+		<y>-0.0384958095275688</y>
+	</streets>
+	<streets>
+		<id>7</id>
+		<name>Weg n Westpunt 6</name>
+		<x>0.165884227769945</x>
+		<y>0.041166041049146</y>
+	</streets>
+	<streets>
+		<id>8</id>
+		<name>Weg n Westpunt 7</name>
+		<x>0.209984227769945</x>
+		<y>0.122715634054874</y>
+	</streets>
+	<streets>
+		<id>9</id>
+		<name>Weg n Westpunt 8</name>
+		<x>0.262633846969945</x>
+		<y>0.226170341320476</y>
+	</streets>
+	<streets>
+		<id>10</id>
+		<name>Weg n Westpunt 9</name>
+		<x>0.296837975281263</x>
+		<y>0.313181697831815</y>
+	</streets>
+	<streets>
+		<id>23</id>
+		<name>Weg naar Hato</name>
+		<x>0.0124520240069677</x>
+		<y>-0.0892708093489152</y>
+	</streets>
+	<streets>
+		<id>60</id>
+		<name>Weg naar Montana</name>
+		<x>-0.202158101666667</x>
+		<y>-0.217588528511217</y>
+	</streets>
+	<streets>
+		<id>61</id>
+		<name>Weg naar Montana 2</name>
+		<x>-0.187597533020205</x>
+		<y>-0.256480886502266</y>
+	</streets>
+	<streets>
+		<id>62</id>
+		<name>Weg naar Santa Catharina</name>
+		<x>-0.187096017542705</x>
+		<y>-0.193843746805373</y>
+	</streets>
+	<streets>
+		<id>63</id>
+		<name>Weg naar Santa Catharina 2</name>
+		<x>-0.214661552817895</x>
+		<y>-0.165242252498947</y>
+	</streets>
+	<streets>
+		<id>1</id>
+		<name>Weg Naar Westpunt</name>
+		<x>0.00785108595583497</x>
+		<y>-0.130055241858513</y>
+	</streets>
+	<streets>
+		<id>5</id>
+		<name>West n Westpunt 4</name>
+		<x>0.0562720352780931</x>
+		<y>-0.0923094965941953</y>
+	</streets>
+	<streets>
+		<id>20</id>
+		<name>Winston Churchillweg</name>
+		<x>-0.0429927544080948</x>
+		<y>-0.148986420386032</y>
+	</streets>
+</root>
